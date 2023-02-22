@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\obj\Debug\net6.0\refint\CustomRandomList.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\CustomRandomList\obj\Debug\net6.0\ref\CustomRandomList.dll
