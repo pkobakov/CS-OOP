@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farm", "Farm\Farm.csproj", "{40DBF28B-0641-4E81-A00E-2D95AAB4993E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farm", "Farm\Farm.csproj", "{40DBF28B-0641-4E81-A00E-2D95AAB4993E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance Demo", "Inheritance Demo\Inheritance Demo.csproj", "{1E8CB607-862E-43A0-9AD8-8BF3C06F63D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRandomList", "CustomRandomList\CustomRandomList.csproj", "{949D536A-028B-4FED-A194-AE31FE269430}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{40DBF28B-0641-4E81-A00E-2D95AAB4993E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40DBF28B-0641-4E81-A00E-2D95AAB4993E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40DBF28B-0641-4E81-A00E-2D95AAB4993E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1E8CB607-862E-43A0-9AD8-8BF3C06F63D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E8CB607-862E-43A0-9AD8-8BF3C06F63D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E8CB607-862E-43A0-9AD8-8BF3C06F63D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E8CB607-862E-43A0-9AD8-8BF3C06F63D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{949D536A-028B-4FED-A194-AE31FE269430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949D536A-028B-4FED-A194-AE31FE269430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949D536A-028B-4FED-A194-AE31FE269430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949D536A-028B-4FED-A194-AE31FE269430}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
