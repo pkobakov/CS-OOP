@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petar Kobakov\\Desktop\\CS_OOP\\Inheritance\\Farm\\Farm.csproj": {}
+    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\Farm\\Farm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petar Kobakov\\Desktop\\CS_OOP\\Inheritance\\Farm\\Farm.csproj": {
+    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\Farm\\Farm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS_OOP\\Inheritance\\Farm\\Farm.csproj",
+        "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\Farm\\Farm.csproj",
         "projectName": "Farm",
-        "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS_OOP\\Inheritance\\Farm\\Farm.csproj",
+        "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\Farm\\Farm.csproj",
         "packagesPath": "C:\\Users\\Petar Kobakov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS_OOP\\Inheritance\\Farm\\obj\\",
+        "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\Farm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Petar Kobakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
