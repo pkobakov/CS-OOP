@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farm", "Farm\Farm.csproj", "{40DBF28B-0641-4E81-A00E-2D95AAB4993E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRandomList", "CustomRandomList\CustomRandomList.csproj", "{949D536A-028B-4FED-A194-AE31FE269430}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomRandomList", "CustomRandomList\CustomRandomList.csproj", "{949D536A-028B-4FED-A194-AE31FE269430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStack", "StackOfStrings\CustomStack.csproj", "{BF7E5DCE-18FD-488D-B398-BD0666974A6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{949D536A-028B-4FED-A194-AE31FE269430}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{949D536A-028B-4FED-A194-AE31FE269430}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{949D536A-028B-4FED-A194-AE31FE269430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7E5DCE-18FD-488D-B398-BD0666974A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7E5DCE-18FD-488D-B398-BD0666974A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7E5DCE-18FD-488D-B398-BD0666974A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7E5DCE-18FD-488D-B398-BD0666974A6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
