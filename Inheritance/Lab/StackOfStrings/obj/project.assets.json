@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\StackOfStrings\\CustomStack.csproj",
+      "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\Lab\\StackOfStrings\\CustomStack.csproj",
       "projectName": "CustomStack",
-      "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\StackOfStrings\\CustomStack.csproj",
+      "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\Lab\\StackOfStrings\\CustomStack.csproj",
       "packagesPath": "C:\\Users\\Petar Kobakov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\StackOfStrings\\obj\\",
+      "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\Lab\\StackOfStrings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Petar Kobakov\\AppData\\Roaming\\NuGet\\NuGet.Config",

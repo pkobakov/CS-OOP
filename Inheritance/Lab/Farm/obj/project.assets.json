@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\Farm\\Farm.csproj",
+      "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\Lab\\Farm\\Farm.csproj",
       "projectName": "Farm",
-      "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\Farm\\Farm.csproj",
+      "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\Lab\\Farm\\Farm.csproj",
       "packagesPath": "C:\\Users\\Petar Kobakov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\Farm\\obj\\",
+      "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Inheritance\\Lab\\Farm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Petar Kobakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
