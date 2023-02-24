@@ -35,15 +35,8 @@ namespace Person
         
         }
 
-        public override string ToString()
-        {
-            StringBuilder str = new StringBuilder();
+        public override string ToString() => String.Format("Name: {0}, Age: {1}", Name, Age);
 
-            str.Append(String.Format("Name: {0}, Age: {1}", Name, Age));
-
-
-            return str.ToString();
-
-        }
+        
     }
 }
