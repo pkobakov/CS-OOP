@@ -22,10 +22,53 @@ namespace PersonsInfo
             this.Salary = salary;
         }
 
-        public string FirstName { get => firstName; private set { firstName = value; } }
-        public string LastName { get => lastName; private set { lastName = value; } }
-        public int Age { get => age; private set { age = value; } }
-        public decimal Salary { get => salary; private set { salary = value; } }
+        public string FirstName 
+                { get => firstName; 
+                  private set 
+                  {
+                                if (string.IsNullOrEmpty(value) || value.Length <= 3)
+                                {
+                                   throw new ArgumentException("First name cannot contain fewer than 3 symbols!");
+                                }
+                    firstName = value; 
+                  } 
+                }
+        public string LastName 
+                             { 
+                                get => lastName; 
+                                private set 
+                                {  
+                                    if (string.IsNullOrEmpty(value) || value.Length <= 3) 
+                                    {
+                                       throw new ArgumentException("Last name cannot contain fewer than 3 symbols!");
+                                    }
+                                  lastName = value; 
+                                } 
+                             }
+        public int Age 
+                     { 
+                       get => age; 
+                       private set 
+                       {
+                          if (value <= 0)
+                          {
+                               throw new ArgumentException("Age cannot be zero or negative integer!");
+                          }
+                           age = value; 
+                       } 
+                     }
+        public decimal Salary 
+                            { 
+                              get => salary; 
+                              private set 
+                              {
+                                if (value < 460) 
+                                {
+                                   throw new ArgumentException("Salary cannot be less than 650 leva.");
+                                }
+                                salary = value; 
+                              }
+                            }
 
         public decimal IncreaseSalary(decimal percentage)
         {
