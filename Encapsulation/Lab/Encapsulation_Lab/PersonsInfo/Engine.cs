@@ -18,14 +18,14 @@ namespace PersonsInfo
             for (int i = 0; i < lines; i++)
             {
                 var data = Console.ReadLine().Split();
-                var person = new Person(data[0], data[1], int.Parse(data[2]));
+                var person = new Person(data[0], data[1], int.Parse(data[2]), decimal.Parse(data[3]));
                 persons.Add(person);
             }
 
-            persons.OrderBy(p => p.FirstName)
-                   .ThenBy(p => p.Age)
-                   .ToList()
-                   .ForEach(p => Console.WriteLine(p.ToString()));
+            var parcentage = decimal.Parse(Console.ReadLine());
+            persons.ForEach(p => p.IncreaseSalary(parcentage));
+            persons.ForEach(p => Console.WriteLine(p.ToString()));
+
 
 
         }
