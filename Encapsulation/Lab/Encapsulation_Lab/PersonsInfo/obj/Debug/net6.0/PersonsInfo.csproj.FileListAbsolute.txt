@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\obj\Debug\net6.0\refint\PersonsInfo.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Encapsulation\Lab\Encapsulation_Lab\PersonsInfo\obj\Debug\net6.0\ref\PersonsInfo.dll
