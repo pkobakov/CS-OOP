@@ -8,7 +8,7 @@ namespace PersonsInfo
 {
     public class Team
     {
-        private string name;
+        private readonly string name;
         private readonly List<Person> firstTeam;
         private readonly List<Person> reserveTeam;
 
@@ -18,7 +18,6 @@ namespace PersonsInfo
             this.firstTeam = new List<Person>();
             this.reserveTeam = new List<Person>();
         }
-
 
 
         public IReadOnlyList<Person> FirstTeam { get => firstTeam.AsReadOnly();}
