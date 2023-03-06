@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\obj\Debug\net6.0\refint\PlayersAndMonsters.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Inheritance\Exercises\PlayersAndMonsters\obj\Debug\net6.0\ref\PlayersAndMonsters.dll
