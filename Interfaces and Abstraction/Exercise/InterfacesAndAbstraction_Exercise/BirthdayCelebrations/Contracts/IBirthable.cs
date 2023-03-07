@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BorderControl.Contracts
+namespace BirthdayCelebrations.Contracts
 {
-    public interface IEngine
+    public interface IBirthable
     {
-        void Run();
+        string Birthdate { get; }
     }
 }
