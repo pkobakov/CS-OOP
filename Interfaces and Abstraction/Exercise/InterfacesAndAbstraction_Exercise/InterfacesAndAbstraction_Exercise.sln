@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telephony", "Telephony\Tele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCelebrations", "BirthdayCelebrations\BirthdayCelebrations.csproj", "{993E14EA-973F-4BFD-90EB-40466B4DD112}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodShortage", "FoodShortage\FoodShortage.csproj", "{7109DCE7-F2A2-4E0B-9299-F075AB93C614}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{993E14EA-973F-4BFD-90EB-40466B4DD112}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{993E14EA-973F-4BFD-90EB-40466B4DD112}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{993E14EA-973F-4BFD-90EB-40466B4DD112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7109DCE7-F2A2-4E0B-9299-F075AB93C614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7109DCE7-F2A2-4E0B-9299-F075AB93C614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7109DCE7-F2A2-4E0B-9299-F075AB93C614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7109DCE7-F2A2-4E0B-9299-F075AB93C614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
