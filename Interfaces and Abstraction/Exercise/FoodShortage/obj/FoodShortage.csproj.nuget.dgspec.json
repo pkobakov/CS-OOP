@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\FoodShortage\\FoodShortage.csproj": {}
+    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\FoodShortage\\FoodShortage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\FoodShortage\\FoodShortage.csproj": {
+    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\FoodShortage\\FoodShortage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\FoodShortage\\FoodShortage.csproj",
+        "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\FoodShortage\\FoodShortage.csproj",
         "projectName": "FoodShortage",
-        "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\FoodShortage\\FoodShortage.csproj",
+        "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\FoodShortage\\FoodShortage.csproj",
         "packagesPath": "C:\\Users\\Petar Kobakov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\FoodShortage\\obj\\",
+        "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\FoodShortage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Petar Kobakov\\AppData\\Roaming\\NuGet\\NuGet.Config",

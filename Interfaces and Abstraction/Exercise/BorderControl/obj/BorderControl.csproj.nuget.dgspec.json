@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\BorderControl\\BorderControl.csproj": {}
+    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\BorderControl\\BorderControl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\BorderControl\\BorderControl.csproj": {
+    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\BorderControl\\BorderControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\BorderControl\\BorderControl.csproj",
+        "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\BorderControl\\BorderControl.csproj",
         "projectName": "BorderControl",
-        "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\BorderControl\\BorderControl.csproj",
+        "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\BorderControl\\BorderControl.csproj",
         "packagesPath": "C:\\Users\\Petar Kobakov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\BorderControl\\obj\\",
+        "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\BorderControl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Petar Kobakov\\AppData\\Roaming\\NuGet\\NuGet.Config",

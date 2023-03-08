@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\BirthdayCelebrations\\BirthdayCelebrations.csproj": {}
+    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\BirthdayCelebrations\\BirthdayCelebrations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\BirthdayCelebrations\\BirthdayCelebrations.csproj": {
+    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\BirthdayCelebrations\\BirthdayCelebrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\BirthdayCelebrations\\BirthdayCelebrations.csproj",
+        "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\BirthdayCelebrations\\BirthdayCelebrations.csproj",
         "projectName": "BirthdayCelebrations",
-        "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\BirthdayCelebrations\\BirthdayCelebrations.csproj",
+        "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\BirthdayCelebrations\\BirthdayCelebrations.csproj",
         "packagesPath": "C:\\Users\\Petar Kobakov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\BirthdayCelebrations\\obj\\",
+        "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\BirthdayCelebrations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Petar Kobakov\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w5sQ/gRZLyYMotNmZP7/MT32JweslAdCjoljss0mJaM3uG4ooKpfxTz+ssO6E3w36/mEM+Gx0uwN55ERAByZkQ==",
+  "dgSpecHash": "UFhf0mthBhBLq7F3goZQ54R6G5ySIT3BIwaTIXPL9HXHXGRir9rdMe563xLbEQUeibci3ki0PlRCq1rFJpXPGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\PersonInfo\\PersonInfo.csproj",
+  "projectFilePath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\PersonInfo\\PersonInfo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

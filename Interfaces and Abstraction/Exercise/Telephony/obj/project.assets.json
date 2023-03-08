@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\Telephony\\Telephony.csproj",
+      "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\Telephony\\Telephony.csproj",
       "projectName": "Telephony",
-      "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\Telephony\\Telephony.csproj",
+      "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\Telephony\\Telephony.csproj",
       "packagesPath": "C:\\Users\\Petar Kobakov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\InterfacesAndAbstraction_Exercise\\Telephony\\obj\\",
+      "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Interfaces and Abstraction\\Exercise\\Telephony\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Petar Kobakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
