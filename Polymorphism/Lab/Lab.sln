@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{B68574F2-3783-4FFB-AD32-45897430CEEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{8024BFE3-0554-4F0E-88F9-7EFE1A5FAD75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{C5D6A377-4BB1-4B12-A8DB-F134FE6B36F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B68574F2-3783-4FFB-AD32-45897430CEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68574F2-3783-4FFB-AD32-45897430CEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68574F2-3783-4FFB-AD32-45897430CEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68574F2-3783-4FFB-AD32-45897430CEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8024BFE3-0554-4F0E-88F9-7EFE1A5FAD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8024BFE3-0554-4F0E-88F9-7EFE1A5FAD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8024BFE3-0554-4F0E-88F9-7EFE1A5FAD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8024BFE3-0554-4F0E-88F9-7EFE1A5FAD75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D6A377-4BB1-4B12-A8DB-F134FE6B36F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D6A377-4BB1-4B12-A8DB-F134FE6B36F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D6A377-4BB1-4B12-A8DB-F134FE6B36F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D6A377-4BB1-4B12-A8DB-F134FE6B36F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BEFEE34-825A-44BB-908E-A3F42F56E6FE}
+	EndGlobalSection
+EndGlobal
