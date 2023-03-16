@@ -1,14 +1,17 @@
-﻿namespace AuthorProblem
+﻿using System;
+
+namespace AuthorProblem
 {
-	using System;
-
-	[Author("Victor")]
-	public class StartUp
-	{
-		[Author("George")]
-		public static void Main(string[] args)
-		{
-
-		}
-	}
+        [Author("Viktor")]
+        public class StartUp
+        {
+            [Author("George")]
+            static void Main(string[] args)
+            {
+                Tracker tracker = new Tracker();
+                tracker.PrintMethodsByAuthor();
+            }
+            
+        }
+    
 }
