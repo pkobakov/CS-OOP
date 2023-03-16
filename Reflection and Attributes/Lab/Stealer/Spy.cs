@@ -34,10 +34,12 @@ namespace Stealer
 
         public string AnalyzeAccessModifiers(string className) 
         {
+
             Type classType;
             string classFullName = string.Empty;
             Assembly myAssembly = Assembly.GetExecutingAssembly();
             var types = myAssembly.GetTypes();
+
             foreach (var type in types.Where(t => t.Name == className)) 
             {
                 classFullName = type.FullName;
@@ -68,6 +70,25 @@ namespace Stealer
             }
 
             return sb.ToString().Trim();
+        }
+
+        public string RevealPrivateMethod(string className) 
+        {
+            Type classType = Type.GetType(className);
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"All Private Methods of Class: {classType.FullName}");
+            sb.AppendLine($"Base Class: {classType.BaseType.Name}");
+            
+            MethodInfo [] privateMethods = classType.GetMethods(BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.Static);
+
+            foreach (var method in privateMethods)
+            {
+                sb.AppendLine(method.Name);
+            }
+
+            return sb.ToString();
+          
         }
     }
 }
