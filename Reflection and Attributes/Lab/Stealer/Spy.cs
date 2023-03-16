@@ -80,7 +80,7 @@ namespace Stealer
             sb.AppendLine($"All Private Methods of Class: {classType.FullName}");
             sb.AppendLine($"Base Class: {classType.BaseType.Name}");
             
-            MethodInfo [] privateMethods = classType.GetMethods(BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.Static);
+            MethodInfo [] privateMethods = classType.GetMethods(BindingFlags.NonPublic | BindingFlags.Instance );
 
             foreach (var method in privateMethods)
             {
@@ -89,6 +89,26 @@ namespace Stealer
 
             return sb.ToString();
           
+        }
+
+        public string CollectGettersAndSetters(string className) 
+        {
+        
+          StringBuilder sb = new StringBuilder();
+            Type type = Type.GetType(className);
+            MethodInfo[] methods = type.GetMethods(BindingFlags.Public | BindingFlags.NonPublic | BindingFlags.Instance);
+
+            foreach (var method in methods.Where(m => m.Name.StartsWith("get"))) 
+            {
+                sb.AppendLine($"{method.Name} will return {method.ReturnType}");
+            }
+
+            foreach (var method in methods.Where(m => m.Name.StartsWith("set")))
+            {
+                sb.AppendLine($"{method.Name} will set field of {method.GetParameters().First().ParameterType}");
+            }
+            
+            return sb.ToString().Trim();
         }
     }
 }

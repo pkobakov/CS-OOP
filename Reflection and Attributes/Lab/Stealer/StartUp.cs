@@ -10,7 +10,8 @@
 			Spy spy = new Spy();
 			//string result = spy.StealFieldInfo("Stealer.Hacker", new[] { "username", "password" });
 			//string result = spy.AnalyzeAccessModifiers("Hacker");
-			string result = spy.RevealPrivateMethod("Stealer.Hacker");
+			//string result = spy.RevealPrivateMethod("Stealer.Hacker");
+			string result = spy.CollectGettersAndSetters("Stealer.Hacker");
 			Console.WriteLine(result);
 
 			
