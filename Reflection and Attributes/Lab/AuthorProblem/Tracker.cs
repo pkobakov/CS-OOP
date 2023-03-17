@@ -8,9 +8,13 @@ namespace AuthorProblem
     {
         public void PrintMethodsByAuthor()
         {
-            var type = typeof(StartUp);
-            var methods = type.GetMethods(BindingFlags.Instance | BindingFlags.Public | BindingFlags.Static);
-
+            Type type = typeof(StartUp);
+            var methods = type.GetMethods(BindingFlags.Instance | BindingFlags.Public | BindingFlags.Static | BindingFlags.NonPublic);
+            var authorAttribute = type.GetCustomAttributes(typeof(AuthorAttribute), true).FirstOrDefault() as AuthorAttribute;
+            if (authorAttribute!=null) 
+            {
+                Console.WriteLine("{0} is written by {1}", type.Name, authorAttribute.Name);
+            }
             foreach (var method in methods)
             {
                 if (method.CustomAttributes.Any(m => m.AttributeType == typeof(AuthorAttribute)))

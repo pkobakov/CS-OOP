@@ -2,16 +2,24 @@
 
 namespace AuthorProblem
 {
-        [Author("Viktor")]
+        [Author("George")]   
         public class StartUp
         {
-            [Author("George")]
+           
             static void Main(string[] args)
             {
+                Greeting();
                 Tracker tracker = new Tracker();
                 tracker.PrintMethodsByAuthor();
             }
-            
+
+        [Author("Max")]
+        private static void Greeting() 
+        {
+
+            Console.WriteLine("Hello World!");
         }
+
+    }
     
 }
