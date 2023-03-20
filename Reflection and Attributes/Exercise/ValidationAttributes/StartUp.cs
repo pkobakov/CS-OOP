@@ -10,7 +10,7 @@ namespace ValidationAttributes
         {
             var person = new Person
              (
-                 "Ivo",
+                 null,
                  -1
              );
 
