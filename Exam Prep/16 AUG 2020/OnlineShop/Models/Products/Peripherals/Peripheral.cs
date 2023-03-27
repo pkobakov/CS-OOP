@@ -13,5 +13,10 @@ namespace OnlineShop.Models.Products.Peripherals
         }
 
         public string ConnectionType { get; private set; }
+
+        public override string ToString()
+        {
+            return base.ToString() + $" Connection Type: {ConnectionType}";
+        }
     }
 }

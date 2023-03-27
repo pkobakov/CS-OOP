@@ -7,6 +7,8 @@ namespace OnlineShop.Models.Products
 {
     public abstract class Product
     {
+        private const decimal minPrice = 0.00M;
+        private const double minValue = 0.00;
         private int id;
         private string manufacturer;
         private string model;
@@ -26,7 +28,7 @@ namespace OnlineShop.Models.Products
             get => id;
             private set 
             {
-                if ( value <= 0) 
+                if ( value < 1) 
                 { 
                   throw new ArgumentException(string.Format(ExceptionMessages.InvalidProductId));
                 }
@@ -65,7 +67,7 @@ namespace OnlineShop.Models.Products
            get => price;
             private set 
             {
-                if(value <= 0) 
+                if(value <= minPrice) 
                 {
                     throw new ArgumentException(string.Format(ExceptionMessages.InvalidPrice));
                 }
@@ -78,16 +80,18 @@ namespace OnlineShop.Models.Products
             get => overallPerformance;
             private set 
             {
-                if (value <= 0) 
+                if (value <= minValue) 
                 {
                     throw new ArgumentException(string.Format(ExceptionMessages.InvalidOverallPerformance));
                 }
+
+                overallPerformance = value;
             } 
         }
 
         public override string ToString()
         {
-            return $"Overall Performance: {overallPerformance:f2}. Price: {price:f2} - {this.GetType().Name}: {manufacturer} {model} (Id: {id})";
+            return $"Overall Performance: {OverallPerformance:f2}. Price: {Price:f2} - {this.GetType().Name}: {Manufacturer} {Model} (Id: {Id})";
         }
     }
 }
