@@ -1,0 +1,14 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
