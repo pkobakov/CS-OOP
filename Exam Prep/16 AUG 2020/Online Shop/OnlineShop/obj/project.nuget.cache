@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0FBZ+ViByLdaQU7vdWuhi4qqAdEVGWUcTh5Yi/M5q+QZsbeQRscIXtjAh3xDfm6aQXZAY8uS4frp1IHl9UjfrQ==",
+  "dgSpecHash": "2vm2dVJoq45tNhgrm0CDE2llgf6GkxStclApFtrETiugcH3bpE2Cw78aISD0NwIVYEb6i8LrsBhJv9vcTj5sWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\16 AUG 2020\\OnlineShop\\OnlineShop.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\16 AUG 2020\\Online Shop\\OnlineShop\\OnlineShop.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
