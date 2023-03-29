@@ -15,12 +15,13 @@ namespace EasterRaces
     {
         public static void Main()
         {
-            //IChampionshipController controller = null; //new ChampionshipController();
-            //IReader reader = new ConsoleReader();
-            //IWriter writer = new ConsoleWriter();
+            IChampionshipController controller = new ChampionshipController();
+            IReader reader = new ConsoleReader();
+            IWriter writer = new ConsoleWriter();
 
-            //Engine enigne = new Engine(controller, reader, writer);
-            //enigne.Run();
+            Engine engine = new Engine(controller, reader, writer);
+            engine.Run();
+
         }
     }
 }
