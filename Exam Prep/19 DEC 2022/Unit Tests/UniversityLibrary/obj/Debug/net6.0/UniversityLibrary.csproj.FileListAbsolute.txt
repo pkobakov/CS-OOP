@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\obj\Debug\net6.0\refint\UniversityLibrary.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\19 DEC 2022\Unit Tests\UniversityLibrary\obj\Debug\net6.0\ref\UniversityLibrary.dll
