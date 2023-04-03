@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\Petar Kobakov\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\18 APR 2022\\Unit Tests\\RepairShop\\RepairShop\\RepairShop.csproj",
+      "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\RepairShop\\RepairShop\\RepairShop.csproj",
       "projectName": "RepairShop",
-      "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\18 APR 2022\\Unit Tests\\RepairShop\\RepairShop\\RepairShop.csproj",
+      "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\RepairShop\\RepairShop\\RepairShop.csproj",
       "packagesPath": "C:\\Users\\Petar Kobakov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\18 APR 2022\\Unit Tests\\RepairShop\\RepairShop\\obj\\",
+      "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\RepairShop\\RepairShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Petar Kobakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -56,6 +56,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

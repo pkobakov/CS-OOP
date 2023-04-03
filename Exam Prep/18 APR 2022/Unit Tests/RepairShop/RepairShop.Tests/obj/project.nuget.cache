@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ikZXu8Tr521+ftCQlxshmK/kja7tva6/ITr8JLrwfvx1ZatzWJG9MwkOH5OtggM1b2Ub1x+qkKX2hkb4pNYhIA==",
+  "dgSpecHash": "f4Ze+oTd6T33TLfrVIcx/dmMP0yNmU53CXYsBxth6kHznyg0vJrS0UpKzk7EpwEwOLt9wylXvH4HwjWtPMZXyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\18 APR 2022\\Unit Tests\\RepairShop\\RepairShop.Tests\\RepairShop.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Petar Kobakov\\Desktop\\RepairShop\\RepairShop.Tests\\RepairShop.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Petar Kobakov\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
@@ -68,7 +68,10 @@
     "C:\\Users\\Petar Kobakov\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
     "C:\\Users\\Petar Kobakov\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Petar Kobakov\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }
