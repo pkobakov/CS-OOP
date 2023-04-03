@@ -13,60 +13,42 @@ namespace Heroes.Models.Map
     {
         public string Fight(ICollection<IHero> players)
         {
-            List<IHero> attackers = new List<IHero>();
-            List<IHero> defenders = new List<IHero>();
-
-            foreach (IHero hero in players) 
+            List<IHero> knights = new List<IHero>();
+            List<IHero> barbarians = new List<IHero>();
+            foreach (IHero hero in players)
             {
-                if (hero.GetType() == typeof(Knight)) 
-                { 
-                    attackers.Add(hero);
-                }
+                if (hero.GetType() == typeof(Knight))
+                    knights.Add(hero);
+                else barbarians.Add(hero);
+            }
+            bool itIsKnightsTurn = true;
+            while (knights.Any(k => k.IsAlive) && barbarians.Any(b => b.IsAlive))
+            {
+                if (itIsKnightsTurn)
+                    TakeFight(knights, barbarians);
                 else
-                {
-                    defenders.Add(hero);
-                }
+                    TakeFight(barbarians, knights);
+
+                itIsKnightsTurn = !itIsKnightsTurn;
             }
 
-            bool itsKnightsTurn = true;
-
-            while (attackers.Any( h => h.IsAlive) && defenders.Any( h => h.IsAlive)) 
-            { 
-                if (itsKnightsTurn) 
-                {
-                    TakeFight(attackers, defenders);
-                }
-
-                else 
-                {
-                    TakeFight(defenders, attackers);
-                }
-
-                itsKnightsTurn = !itsKnightsTurn;
-            }
-
-            if (attackers.Any(a => a.IsAlive))
+            if (knights.Any(a => a.IsAlive))
             {
-                return $"The knights took {attackers.Where( a => !a.IsAlive).Count()} casualties but won the battle.";
+                return $"The knights took {knights.Where( a => !a.IsAlive).Count()} casualties but won the battle.";
             }
 
             else 
             {
-                return $"The barbarians took {defenders.Where( d => !d.IsAlive).Count()} casualties but won the battle.";
+                return $"The barbarians took {barbarians.Where( d => !d.IsAlive).Count()} casualties but won the battle.";
             }
 
         }
 
         private void TakeFight( List<IHero> attackers, List<IHero> defenders) 
-        { 
-             foreach (IHero attacker in attackers.Where( h => h.IsAlive)) 
-             {
-                foreach (IHero defender in defenders.Where(h => h.IsAlive)) 
-                {
-
+        {
+            foreach (IHero attacker in attackers.Where(x => x.IsAlive))
+                foreach (IHero defender in defenders.Where(x => x.IsAlive))
                     defender.TakeDamage(attacker.Weapon.DoDamage());
-                } 
-             }
         }
     }
 }

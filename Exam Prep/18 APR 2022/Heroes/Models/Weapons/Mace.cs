@@ -21,7 +21,7 @@ namespace Heroes.Models.Weapons
 
             if (Durability == 0) 
             {
-                Durability = 0; 
+                return 0; 
             }
             return damage;
         }

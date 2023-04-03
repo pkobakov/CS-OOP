@@ -10,10 +10,10 @@ namespace Heroes
     {
         public static void Main()
         {
-            //IEngine engine = new Engine();
-            //engine.Run();
+            IEngine engine = new Engine();
+            engine.Run();
 
-          
+
         }
     }
 }

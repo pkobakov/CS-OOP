@@ -90,12 +90,16 @@ namespace Heroes.Models.Heroes
                 this.Armour = 0; 
             }
 
-            if (this.Health <= points) 
+            if (this.Health <= points)
             {
                 Health = 0;
             }
 
-            Health -= points;
+            else 
+            {
+               Health -= points;
+
+            }
 
         }
     }
