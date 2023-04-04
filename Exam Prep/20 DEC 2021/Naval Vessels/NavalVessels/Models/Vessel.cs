@@ -91,7 +91,8 @@ namespace NavalVessels.Models
             string targetsResult = targets.Count > 0 ? string.Join(", ", targets) : "None";
 
             sb.AppendLine($"*Targets: {targetsResult}");
-            return base.ToString();
+
+            return sb.ToString().Trim();
         }
     }
 }

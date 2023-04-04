@@ -30,6 +30,8 @@ namespace NavalVessels.Models
                 this.MainWeaponCaliber -= 40;
                 this.Speed += 4;
             }
+
+            this.SubmergeMode = ! this.SubmergeMode;
         }
         public override void RepairVessel()
         {

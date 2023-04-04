@@ -29,6 +29,8 @@ namespace NavalVessels.Models
                 this.MainWeaponCaliber -= 40;
                 this.Speed += 5;
             }
+
+            this.SonarMode = ! this.SonarMode;
         }
         public override void RepairVessel()
         {
