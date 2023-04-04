@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Formula1.Models.Pilot
 {
-    public class Pilot
+    public class Pilot : IPilot
     {
         private string fullName;
         private bool canRace;
@@ -34,7 +34,7 @@ namespace Formula1.Models.Pilot
             }
         }
 
-        public bool CanRace => false;
+        public bool CanRace { get; private set; } = false;
         
         public IFormulaOneCar Car 
         { 
@@ -54,7 +54,7 @@ namespace Formula1.Models.Pilot
         public void AddCar(IFormulaOneCar car) 
         { 
             this.car = car;
-            canRace = true;
+            this.CanRace = true;
         }
 
         public void WinRace() 
