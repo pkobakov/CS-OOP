@@ -32,7 +32,7 @@ namespace NavalVessels.Models
 
         public int CombatExperience { get; private set; } = 0;
 
-        public ICollection<IVessel> Vessels => this.vessels.ToList().AsReadOnly();
+        public ICollection<IVessel> Vessels => this.vessels.ToList();
 
         public void AddVessel(IVessel vessel)
         {
