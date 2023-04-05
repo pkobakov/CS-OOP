@@ -11,7 +11,7 @@ namespace NavalVessels.Models
     public class Captain : ICaptain
     {
         private string fullName;
-        private ICollection<IVessel> vessels;
+        private List<IVessel> vessels;
         public Captain(string fullName) 
         { 
             this.FullName = fullName;
@@ -32,7 +32,7 @@ namespace NavalVessels.Models
 
         public int CombatExperience { get; private set; } = 0;
 
-        public ICollection<IVessel> Vessels => this.vessels.ToList();
+        public ICollection<IVessel> Vessels => this.vessels;
 
         public void AddVessel(IVessel vessel)
         {
