@@ -9,9 +9,9 @@ namespace NavalVessels.Models
 {
     public class Submarine : Vessel, ISubmarine
     {
-        private const double SBarmorThickness = 200;
+        private const double initialArmorThickness = 200;
         public Submarine(string name, double mainWeaponCaliber, double speed) 
-            : base(name, mainWeaponCaliber, speed, SBarmorThickness)
+            : base(name, mainWeaponCaliber, speed, initialArmorThickness)
         {
             this.SubmergeMode = false;
         }
@@ -20,6 +20,7 @@ namespace NavalVessels.Models
 
         public void ToggleSubmergeMode()
         {
+            this.SubmergeMode = !this.SubmergeMode;
             if (this.SubmergeMode)
             {
                 this.MainWeaponCaliber += 40;
@@ -31,17 +32,20 @@ namespace NavalVessels.Models
                 this.Speed += 4;
             }
 
-            this.SubmergeMode = ! this.SubmergeMode;
+           
         }
         public override void RepairVessel()
         {
-            this.ArmorThickness = SBarmorThickness;
+            if (this.ArmorThickness < initialArmorThickness) 
+            { 
+                this.ArmorThickness = initialArmorThickness;
+            }
         }
 
         public override string ToString()
         {
             string submergeMode = this.SubmergeMode ? "ON" : "OFF";
-            return base.ToString() + Environment.NewLine + $" *Sonar mode: {submergeMode}";
+            return base.ToString() + Environment.NewLine + $" *Submerge mode: {submergeMode}";
         }
     }
 }

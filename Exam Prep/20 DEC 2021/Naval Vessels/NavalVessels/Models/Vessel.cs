@@ -12,6 +12,8 @@ namespace NavalVessels.Models
     public abstract class Vessel : IVessel
     {
         private string name;
+        private double mainWeaponCaliber;
+        private double speed;
         private double armorThickness;
         private ICaptain captain;
         private ICollection<string> targets;
@@ -53,9 +55,9 @@ namespace NavalVessels.Models
         }
         public  double ArmorThickness { get => armorThickness; set { armorThickness = value; } }
 
-        public  double MainWeaponCaliber { get; protected set; }
+        public  double MainWeaponCaliber { get => mainWeaponCaliber; protected set { mainWeaponCaliber = value; } }
 
-        public double Speed { get; protected set; }
+        public double Speed { get => speed; protected set { speed = value; } }
 
         public ICollection<string> Targets => this.targets.ToList().AsReadOnly();
 
@@ -84,13 +86,14 @@ namespace NavalVessels.Models
             
 
             sb.AppendLine($"- {this.Name}");
-            sb.AppendLine($"*Armor thickness: {this.ArmorThickness}");
-            sb.AppendLine($"*Main weapon caliber: {this.MainWeaponCaliber}");
-            sb.AppendLine($"*Speed: {this.Speed} knots");
+            sb.AppendLine($" *Type: {this.GetType().Name}");
+            sb.AppendLine($" *Armor thickness: {this.ArmorThickness}");
+            sb.AppendLine($" *Main weapon caliber: {this.MainWeaponCaliber}");
+            sb.AppendLine($" *Speed: {this.Speed} knots");
             
             string targetsResult = targets.Count > 0 ? string.Join(", ", targets) : "None";
 
-            sb.AppendLine($"*Targets: {targetsResult}");
+            sb.AppendLine($" *Targets: {targetsResult}");
 
             return sb.ToString().Trim();
         }
