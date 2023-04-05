@@ -3,6 +3,7 @@ using SpaceStation.Models.Mission.Contracts;
 using SpaceStation.Models.Planets.Contracts;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace SpaceStation.Models.Mission
@@ -14,14 +15,14 @@ namespace SpaceStation.Models.Mission
         {
             foreach (var astronaut in astronauts) 
             { 
-                 while (astronaut.CanBreath) 
+                 while (astronaut.CanBreath && planet.Items.Any()) 
                  {
-                    foreach (var item in planet.Items)
-                    {
+                    
+                        var item = planet.Items.First();
                         astronaut.Bag.Items.Add(item);
                         planet.Items.Remove(item);
                         astronaut.Breath();
-                    }
+                    
                  }
             }
             

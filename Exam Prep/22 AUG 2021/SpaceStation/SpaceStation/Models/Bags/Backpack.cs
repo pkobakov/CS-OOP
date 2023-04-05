@@ -8,11 +8,11 @@ namespace SpaceStation.Models.Bags
 {
     public class Backpack : IBag
     {
-        private ICollection<string> items;
+        private List<string> items;
         public Backpack() 
         { 
             items = new List<string>();
         }
-        public ICollection<string> Items => items.ToList();
+        public ICollection<string> Items => items;
     }
 }
