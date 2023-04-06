@@ -10,7 +10,7 @@ namespace Gym.Models.Athletes
     public class Weightlifter : Athlete
     {
         private const int initialStamina = 60;
-        public Weightlifter(string fullName, string motivation, int numberOfMedals, int stamina)
+        public Weightlifter(string fullName, string motivation, int numberOfMedals)
             : base(fullName, motivation, numberOfMedals, initialStamina)
         {
         }

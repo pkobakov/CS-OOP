@@ -52,18 +52,18 @@ namespace Gym.Models.Gyms
             }
 
             this.Capacity--;
-            this.Athletes.Add(athlete);
+            this.athletes.Add(athlete);
             
         }
 
         public void AddEquipment(IEquipment equipment)
         {
-            this.Equipment.Add(equipment);  
+            this.equipment.Add(equipment);  
         }
 
         public void Exercise()
         {
-            foreach (var athlete in this.Athletes)
+            foreach (var athlete in this.athletes)
             {
                 athlete.Exercise();
             }
@@ -86,7 +86,7 @@ namespace Gym.Models.Gyms
         public bool RemoveAthlete(IAthlete athlete)
         {
             this.Capacity++;
-            return this.Athletes.Remove(athlete);
+            return this.athletes.Remove(athlete);
         }
     }
 }
