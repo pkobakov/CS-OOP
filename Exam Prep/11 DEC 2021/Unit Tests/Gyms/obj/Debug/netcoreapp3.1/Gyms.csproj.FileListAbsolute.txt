@@ -1,0 +1,14 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\11 DEC 2021\Unit Tests\Gyms\bin\Debug\netcoreapp3.1\Gyms.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\11 DEC 2021\Unit Tests\Gyms\bin\Debug\netcoreapp3.1\Gyms.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\11 DEC 2021\Unit Tests\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\11 DEC 2021\Unit Tests\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.dev.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\11 DEC 2021\Unit Tests\Gyms\bin\Debug\netcoreapp3.1\Gyms.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\11 DEC 2021\Unit Tests\Gyms\bin\Debug\netcoreapp3.1\Gyms.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\11 DEC 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\11 DEC 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\11 DEC 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\11 DEC 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\11 DEC 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\11 DEC 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\11 DEC 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\11 DEC 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.genruntimeconfig.cache

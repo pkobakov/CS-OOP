@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\refint\SmartphoneShop.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\ref\SmartphoneShop.dll

@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\bin\Debug\net6.0\EasterRaces.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\bin\Debug\net6.0\EasterRaces.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\bin\Debug\net6.0\EasterRaces.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\bin\Debug\net6.0\EasterRaces.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\bin\Debug\net6.0\EasterRaces.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\obj\Debug\net6.0\EasterRaces.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\obj\Debug\net6.0\EasterRaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\obj\Debug\net6.0\EasterRaces.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\obj\Debug\net6.0\EasterRaces.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\obj\Debug\net6.0\EasterRaces.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\obj\Debug\net6.0\EasterRaces.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\obj\Debug\net6.0\refint\EasterRaces.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\obj\Debug\net6.0\EasterRaces.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\obj\Debug\net6.0\EasterRaces.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\EasterRaces\EasterRaces\obj\Debug\net6.0\ref\EasterRaces.dll

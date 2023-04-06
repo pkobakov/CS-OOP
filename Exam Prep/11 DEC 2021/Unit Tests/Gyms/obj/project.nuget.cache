@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "57xsZA9F59HiHJF9j0GS7kFqCA7az5LiPyEi284CbKZhNQkUqJMijoq4XIZ5KE+zaXLpUzuMW0FiLRFiE1aR/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\11 DEC 2021\\Unit Tests\\Gyms\\Gyms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

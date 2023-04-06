@@ -1,0 +1,10 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\Unit Tests\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\Unit Tests\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\Unit Tests\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\Unit Tests\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\Unit Tests\TheRace\obj\Debug\netcoreapp3.1\TheRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\Unit Tests\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\Unit Tests\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\Unit Tests\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\Unit Tests\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\22 AUG 2020\Unit Tests\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb

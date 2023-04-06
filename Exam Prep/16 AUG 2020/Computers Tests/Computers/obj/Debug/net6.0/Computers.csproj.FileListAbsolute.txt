@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\bin\Debug\net6.0\Computers.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\bin\Debug\net6.0\Computers.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\bin\Debug\net6.0\Computers.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\bin\Debug\net6.0\Computers.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\bin\Debug\net6.0\Computers.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\net6.0\Computers.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\net6.0\Computers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\net6.0\Computers.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\net6.0\Computers.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\net6.0\Computers.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\net6.0\Computers.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\net6.0\refint\Computers.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\net6.0\Computers.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\net6.0\Computers.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\net6.0\ref\Computers.dll

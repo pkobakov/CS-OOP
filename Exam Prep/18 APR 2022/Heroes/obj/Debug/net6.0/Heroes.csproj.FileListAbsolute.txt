@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\bin\Debug\net6.0\Heroes.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\bin\Debug\net6.0\Heroes.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\bin\Debug\net6.0\Heroes.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\bin\Debug\net6.0\Heroes.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\bin\Debug\net6.0\Heroes.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\obj\Debug\net6.0\Heroes.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\obj\Debug\net6.0\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\obj\Debug\net6.0\Heroes.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\obj\Debug\net6.0\Heroes.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\obj\Debug\net6.0\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\obj\Debug\net6.0\Heroes.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\obj\Debug\net6.0\refint\Heroes.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\obj\Debug\net6.0\Heroes.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\obj\Debug\net6.0\Heroes.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2022\Heroes\obj\Debug\net6.0\ref\Heroes.dll

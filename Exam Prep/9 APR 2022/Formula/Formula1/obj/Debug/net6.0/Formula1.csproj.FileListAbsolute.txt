@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\bin\Debug\net6.0\Formula1.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\bin\Debug\net6.0\Formula1.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\bin\Debug\net6.0\Formula1.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\bin\Debug\net6.0\Formula1.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\bin\Debug\net6.0\Formula1.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\obj\Debug\net6.0\Formula1.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\obj\Debug\net6.0\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\obj\Debug\net6.0\Formula1.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\obj\Debug\net6.0\Formula1.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\obj\Debug\net6.0\Formula1.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\obj\Debug\net6.0\Formula1.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\obj\Debug\net6.0\refint\Formula1.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\obj\Debug\net6.0\Formula1.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\obj\Debug\net6.0\Formula1.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\9 APR 2022\Formula\Formula1\obj\Debug\net6.0\ref\Formula1.dll

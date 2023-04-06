@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\9 APR 2022\\Unit Tests\\SmartphoneShop.Tests\\SmartphoneShop.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\9 APR 2022\\Unit Tests\\SmartphoneShop.Tests\\SmartphoneShop.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\9 APR 2022\\Unit Tests\\SmartphoneShop.Tests\\SmartphoneShop.Tests.csproj",
+        "projectName": "SmartphoneShop.Tests",
+        "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\9 APR 2022\\Unit Tests\\SmartphoneShop.Tests\\SmartphoneShop.Tests.csproj",
+        "packagesPath": "C:\\Users\\Petar Kobakov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\9 APR 2022\\Unit Tests\\SmartphoneShop.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Petar Kobakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\9 APR 2022\\Unit Tests\\SmartphoneShop\\SmartphoneShop.csproj": {
+                "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\9 APR 2022\\Unit Tests\\SmartphoneShop\\SmartphoneShop.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\9 APR 2022\\Unit Tests\\SmartphoneShop\\SmartphoneShop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\9 APR 2022\\Unit Tests\\SmartphoneShop\\SmartphoneShop.csproj",
+        "projectName": "SmartphoneShop",
+        "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\9 APR 2022\\Unit Tests\\SmartphoneShop\\SmartphoneShop.csproj",
+        "packagesPath": "C:\\Users\\Petar Kobakov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\9 APR 2022\\Unit Tests\\SmartphoneShop\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Petar Kobakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

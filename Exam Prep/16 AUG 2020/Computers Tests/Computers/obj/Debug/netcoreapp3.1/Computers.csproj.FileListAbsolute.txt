@@ -1,0 +1,14 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\netcoreapp3.1\Computers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\16 AUG 2020\Computers Tests\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache

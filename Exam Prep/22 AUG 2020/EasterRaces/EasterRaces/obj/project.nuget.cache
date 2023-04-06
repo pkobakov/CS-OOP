@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7TXDtzzsj5p9HZU5kccvPIWIqbWAQSPNh8JtGgx0pDIzuYSr+TjMFqU31flo6SG69TP+AObdl4qLCJg7yIFEMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\22 AUG 2020\\EasterRaces\\EasterRaces\\EasterRaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
