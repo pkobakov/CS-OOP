@@ -22,9 +22,10 @@ namespace PlanetWars.Models.Planets
 
         private IRepository<IWeapon> weapons;
         private IRepository<IMilitaryUnit> units;
-        public Planet()
+        public Planet(string name, double budget)
         {
-
+            this.Name = name;
+            this.Budget = budget;
             this.weapons = new WeaponRepository();
             this.units = new UnitRepository();
         }
@@ -58,11 +59,8 @@ namespace PlanetWars.Models.Planets
 
         public double MilitaryPower 
         { 
-            get => militaryPower;
-            private set 
-            {
-                militaryPower = CalculateMilitaryPower();
-            }
+            get => CalculateMilitaryPower();
+            
         }
 
         public IReadOnlyCollection<IMilitaryUnit> Army => this.units.Models.ToList().AsReadOnly();
@@ -101,6 +99,10 @@ namespace PlanetWars.Models.Planets
 
         public void Spend(double amount)
         {
+            if (this.Budget < amount)
+            {
+                throw new InvalidOperationException(ExceptionMessages.UnsufficientBudget);
+            }
             this.Budget -= amount;
         }
 
@@ -113,12 +115,12 @@ namespace PlanetWars.Models.Planets
         private double CalculateMilitaryPower()
         {
             double totalAmount = units.Models.Sum(u => u.EnduranceLevel) + weapons.Models.Sum(w => w.DestructionLevel);
-            if (this.Army.Any(u => u.GetType().Name == nameof(AnonymousImpactUnit)))
+            if (this.units.Models.Any(u => u.GetType().Name == nameof(AnonymousImpactUnit)))
             {
                 totalAmount += totalAmount * 0.30;
             }
 
-            if (this.Weapons.Any(w => w.GetType().Name == nameof(NuclearWeapon)))
+            if (this.weapons.Models.Any(w => w.GetType().Name == nameof(NuclearWeapon)))
             {
                 totalAmount += totalAmount * 0.45;
             }
