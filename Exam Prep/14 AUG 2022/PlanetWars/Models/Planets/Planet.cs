@@ -117,12 +117,12 @@ namespace PlanetWars.Models.Planets
             double totalAmount = units.Models.Sum(u => u.EnduranceLevel) + weapons.Models.Sum(w => w.DestructionLevel);
             if (this.units.Models.Any(u => u.GetType().Name == nameof(AnonymousImpactUnit)))
             {
-                totalAmount += totalAmount * 0.30;
+                totalAmount *= 1.3;
             }
 
             if (this.weapons.Models.Any(w => w.GetType().Name == nameof(NuclearWeapon)))
             {
-                totalAmount += totalAmount * 0.45;
+                totalAmount *= 1.45;
             }
 
             
