@@ -77,12 +77,23 @@ namespace CarRacing.Models.Racers
 
         public bool IsAvailable()
         {
-            return car.FuelAvailable > 0;
+            return Car.FuelAvailable >= Car.FuelConsumptionPerRace;
         }
 
         public virtual void Race()
         {
-            car.Drive();
+            Car.Drive();
         }
+
+        public override string ToString()
+        {
+            var sb = new StringBuilder();
+            sb.AppendLine($"{this.GetType().Name}: {this.Username}");
+            sb.AppendLine($"--Driving behavior: {this.RacingBehavior}");
+            sb.AppendLine($"--Driving experience: {this.DrivingExperience}");
+            sb.AppendLine($"--Car: {this.Car.Make} {this.Car.Model} ({this.Car.VIN})");
+            return sb.ToString().Trim();
+        }
+
     }
 }

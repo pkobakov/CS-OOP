@@ -3,3 +3,13 @@ C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\15 AUG 2021\CarRacing\CarRacing\
 C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\15 AUG 2021\CarRacing\CarRacing\obj\Debug\net6.0\CarRacing.AssemblyInfoInputs.cache
 C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\15 AUG 2021\CarRacing\CarRacing\obj\Debug\net6.0\CarRacing.AssemblyInfo.cs
 C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\15 AUG 2021\CarRacing\CarRacing\obj\Debug\net6.0\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\15 AUG 2021\CarRacing\CarRacing\bin\Debug\net6.0\CarRacing.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\15 AUG 2021\CarRacing\CarRacing\bin\Debug\net6.0\CarRacing.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\15 AUG 2021\CarRacing\CarRacing\bin\Debug\net6.0\CarRacing.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\15 AUG 2021\CarRacing\CarRacing\bin\Debug\net6.0\CarRacing.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\15 AUG 2021\CarRacing\CarRacing\bin\Debug\net6.0\CarRacing.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\15 AUG 2021\CarRacing\CarRacing\obj\Debug\net6.0\CarRacing.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\15 AUG 2021\CarRacing\CarRacing\obj\Debug\net6.0\refint\CarRacing.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\15 AUG 2021\CarRacing\CarRacing\obj\Debug\net6.0\CarRacing.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\15 AUG 2021\CarRacing\CarRacing\obj\Debug\net6.0\CarRacing.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\15 AUG 2021\CarRacing\CarRacing\obj\Debug\net6.0\ref\CarRacing.dll

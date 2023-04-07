@@ -8,7 +8,7 @@ namespace CarRacing.Models.Cars
 {
     public class TunedCar : Car
     {
-        public TunedCar(string make, string model, string VIN, int horsePower, double fuelAvailable, double fuelConsumptionPerRace) 
+        public TunedCar(string make, string model, string VIN, int horsePower) 
             : base(make, model, VIN, horsePower,65, 7.5)
         {
         }
@@ -17,7 +17,7 @@ namespace CarRacing.Models.Cars
         {
             base.Drive();
 
-            int hpReduceAmount = Convert.ToInt32(this.HorsePower * 3 / 100);
+            int hpReduceAmount = (int)Math.Round(this.HorsePower * 0.03);
             this.HorsePower -= hpReduceAmount;
         }
     }

@@ -13,27 +13,30 @@ namespace CarRacing.Models.Maps
     {
         public string StartRace(IRacer racerOne, IRacer racerTwo)
         {
-            if (racerOne != null && racerTwo != null) 
+            if (!racerOne.IsAvailable() && !racerTwo.IsAvailable()) 
             {
                 return OutputMessages.RaceCannotBeCompleted;
             }
 
-            if (racerOne != null) 
+            if (!racerOne.IsAvailable()) 
             { 
                return string.Format(OutputMessages.OneRacerIsNotAvailable, racerTwo.Username, racerOne.Username );
             
             }
 
-            if (racerTwo != null) 
+            if (!racerTwo.IsAvailable()) 
             {
                 return string.Format(OutputMessages.OneRacerIsNotAvailable, racerOne.Username, racerTwo.Username);
             }
 
+            racerOne.Race();
+            racerTwo.Race();
+
             var racerOneCalculatedRacingBehavior = racerOne.RacingBehavior == "strict" ? 1.2 : 1.1;
             var chanceToRacerOne = racerOne.Car.HorsePower * racerOne.DrivingExperience * racerOneCalculatedRacingBehavior;
 
-            var racerTwoCalculatedRacingBehavior = racerOne.RacingBehavior == "strict" ? 1.2 : 1.1;
-            var chanceToRacerTwo = racerOne.Car.HorsePower * racerOne.DrivingExperience * racerTwoCalculatedRacingBehavior;
+            var racerTwoCalculatedRacingBehavior = racerTwo.RacingBehavior == "strict" ? 1.2 : 1.1;
+            var chanceToRacerTwo = racerTwo.Car.HorsePower * racerTwo.DrivingExperience * racerTwoCalculatedRacingBehavior;
 
             IRacer winner = chanceToRacerOne > chanceToRacerTwo ? racerOne : racerTwo;
 

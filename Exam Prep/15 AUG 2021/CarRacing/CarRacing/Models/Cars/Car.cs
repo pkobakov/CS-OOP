@@ -25,7 +25,7 @@ namespace CarRacing.Models.Cars
           double fuelAvailable,
           double fuelConsumptionPerRace)
         {
-             this.Make = make;
+            this.Make = make;
             this.Model = model;
             this.VIN = VIN;
             this.HorsePower = horsePower;
