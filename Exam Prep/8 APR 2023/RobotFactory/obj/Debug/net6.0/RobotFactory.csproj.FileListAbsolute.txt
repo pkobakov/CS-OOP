@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\bin\Debug\net6.0\RobotFactory.exe
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\bin\Debug\net6.0\RobotFactory.deps.json
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\bin\Debug\net6.0\RobotFactory.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\bin\Debug\net6.0\RobotFactory.dll
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\bin\Debug\net6.0\RobotFactory.pdb
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.dll
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\obj\Debug\net6.0\refint\RobotFactory.dll
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.pdb
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\Exam 8 APR 2023\RobotFactory\obj\Debug\net6.0\ref\RobotFactory.dll
