@@ -8,7 +8,7 @@ namespace RobotService.Models
 {
     public class LaserRadar : Supplement
     {
-        public LaserRadar(int interfaceStandard, int batteryUsage) : base(20082, 5000)
+        public LaserRadar() : base(20082, 5000)
         {
         }
     }

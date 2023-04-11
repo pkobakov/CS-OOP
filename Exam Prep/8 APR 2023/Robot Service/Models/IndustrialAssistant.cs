@@ -8,8 +8,8 @@ namespace RobotService.Models
 {
     public class IndustrialAssistant : Robot
     {
-        public IndustrialAssistant(string model, int batteryCapacity, int conversionCapacityIndex)
-            : base(model, 40000, 40000)
+        public IndustrialAssistant(string model)
+            : base(model, 40000, 5000)
         {
         }
     }
