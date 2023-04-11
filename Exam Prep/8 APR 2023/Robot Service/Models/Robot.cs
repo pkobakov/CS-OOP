@@ -64,7 +64,7 @@ namespace RobotService.Models
 
         public void Eating(int minutes)
         {
-            int totalCapacity =  this.ConvertionCapacityIndex * minutes;
+            int producedEnergy =  this.ConvertionCapacityIndex * minutes;
             
             if (this.BatteryLevel == this.BatteryCapacity)
             {
@@ -72,7 +72,7 @@ namespace RobotService.Models
             }
             else 
             {
-                this.BatteryLevel += totalCapacity;
+                this.BatteryLevel += producedEnergy;
             }
            
         }
@@ -92,14 +92,14 @@ namespace RobotService.Models
         {
             int supplementInterfaceStandart = supplement.InterfaceStandard;
             this.interfaceStandarts.Add(supplementInterfaceStandart);
-            this.BatteryCapacity = supplement.BatteryUsage;
+            this.BatteryCapacity -= supplement.BatteryUsage;
             this.BatteryLevel -= supplement.BatteryUsage;
         }
 
         public override string ToString()
         {
             var sb = new StringBuilder();
-            sb.AppendLine($"{this.GetType().Name} {this.Model}");
+            sb.AppendLine($"{this.GetType().Name} {this.Model}:");
             sb.AppendLine($"--Maximum battery capacity: {BatteryCapacity}");
             sb.AppendLine($"--Current battery level: {BatteryLevel}");
             var supplementList = this.interfaceStandarts.Count > 0 ? string.Join(", ", this.interfaceStandarts) : "none";
