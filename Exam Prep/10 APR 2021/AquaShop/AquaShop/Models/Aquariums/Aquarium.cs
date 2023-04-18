@@ -48,13 +48,13 @@ namespace AquaShop.Models.Aquariums
 
         public int Comfort => (int)this.decorations.Sum( d => d.Comfort);
 
-        public ICollection<IDecoration> Decorations => this.decorations.ToList().AsReadOnly();
+        public ICollection<IDecoration> Decorations => this.decorations.ToList();
 
-        public ICollection<IFish> Fish => this.fish.ToList().AsReadOnly();
+        public ICollection<IFish> Fish => this.fish.ToList();
 
         public void AddDecoration(IDecoration decoration)
         {
-            this.Decorations.Add(decoration);
+            this.decorations.Add(decoration);
         }
 
         public void AddFish(IFish fish)
