@@ -18,7 +18,7 @@ namespace Easter.Repositories
 
         public void Add(IEgg model)
         {
-            this.Add(model);
+            this.models.Add(model);
         }
 
         public IEgg FindByName(string name)

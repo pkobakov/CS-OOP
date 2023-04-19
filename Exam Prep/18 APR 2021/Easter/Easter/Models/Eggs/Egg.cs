@@ -13,6 +13,7 @@ namespace Easter.Models.Eggs
         public Egg(string name, int energyRequired) 
         { 
             this.Name = name;
+            this.EnergyRequired = energyRequired;
         }
         public string Name 
         { 
@@ -53,7 +54,11 @@ namespace Easter.Models.Eggs
 
         public bool IsDone()
         {
-            return this.energyRequired == 0;
+            if (this.energyRequired == 0)
+            {
+                return true;
+            }
+            return false;
         }
     }
 }

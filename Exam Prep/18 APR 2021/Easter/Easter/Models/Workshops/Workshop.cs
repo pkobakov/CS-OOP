@@ -18,11 +18,10 @@ namespace Easter.Models.Workshops
            {
             
                 var dye = bunny.Dyes.FirstOrDefault( d => !d.IsFinished());
+                bunny.Work();
                 dye.Use();
                 egg.GetColored();
-                bunny.Work();
-
-            
+                
            }
 
         }

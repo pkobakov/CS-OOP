@@ -33,7 +33,13 @@ namespace Easter.Models.Dyes
 
         public void Use()
         {
+            
             this.Power -= 10;
+
+            if (this.Power < 0)
+            {
+                this.Power = 0;
+            }
         }
     }
 }
