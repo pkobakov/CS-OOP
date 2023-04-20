@@ -18,6 +18,9 @@ namespace ChristmasPastryShop.Models.Booths
 
         private IRepository<IDelicacy> delicacyMemu;
         private IRepository<ICocktail> cocktailMenu;
+
+        private double currentBill;
+        private double turnover;
         public Booth(int boothId, int capacity)
         {
             this.BoothId = boothId;
@@ -47,9 +50,9 @@ namespace ChristmasPastryShop.Models.Booths
 
         public IRepository<ICocktail> CocktailMenu => this.cocktailMenu;
 
-        public double CurrentBill { get; private set; }
+        public double CurrentBill { get { return currentBill;  }  private set { currentBill = value; } }
 
-        public double Turnover { get; private set; }
+        public double Turnover { get { return turnover; } private set { turnover = value; } }
 
         public bool IsReserved { get; private set; }
 

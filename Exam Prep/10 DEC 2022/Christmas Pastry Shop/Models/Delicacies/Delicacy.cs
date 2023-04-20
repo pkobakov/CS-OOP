@@ -32,7 +32,7 @@ namespace ChristmasPastryShop.Models.Delicacies
 
         public override string ToString()
         {
-            return $"{this.Name} - {this.Price : f2} lv";
+            return $"{this.Name} - {this.Price:f2} lv";
         }
     }
 }

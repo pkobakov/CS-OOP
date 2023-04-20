@@ -32,26 +32,22 @@ namespace ChristmasPastryShop.Models.Cocktails
         }
 
 
-        public string Size { get { return size; } private set { size = value; } }
+        public string Size 
+        {
+            get { return size; } private set {  size = value; } 
+        }
 
         public double Price 
         { 
             get { return  price; } 
             private set 
             {
-                if (this.Size == "Large")
+                switch (this.Size)
                 {
-                    price = value;
-                }
+                    case "Small": price = value/3; break;  
+                    case "Middle": price = value - (value/3); break; 
+                    default: price = value; break;
 
-                if (this.Size == "Middle")
-                {
-                    price = 2/3*value;
-                }
-
-                if (this.Size == "Small")
-                {
-                    price = 1 / 3 * value;
                 }
             }
         }
