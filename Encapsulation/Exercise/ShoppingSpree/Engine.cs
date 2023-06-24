@@ -19,7 +19,7 @@ namespace ShoppingSpree
         public void Run()
         {
             AddPeople();
-            AddPrduct();
+            AddProduct();
 
             string command;
             while ((command = Console.ReadLine()) != "END")
@@ -60,7 +60,7 @@ namespace ShoppingSpree
             }
         }
 
-        private void AddPrduct()
+        private void AddProduct()
         {
             string[] productArgs = Console.ReadLine()
            .Split(";", StringSplitOptions.RemoveEmptyEntries)

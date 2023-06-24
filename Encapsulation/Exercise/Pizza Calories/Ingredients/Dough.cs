@@ -11,16 +11,16 @@ namespace PizzaCalories.Ingredients
         private readonly Dictionary<string, double> flourTypes = 
             new Dictionary<string, double>() 
             { 
-                { "white", 1.5 },
-                { "wholegrain", 1.0} 
+                { "White", 1.5 },
+                { "Wholegrain", 1.0} 
             };
 
         private readonly Dictionary<string, double> bakingTechnics =
             new Dictionary<string, double>()
             {
-                {"crispy", 0.9 },
-                {"chewy", 1.1},
-                {"homemade", 1.0}
+                {"Crispy", 0.9 },
+                {"Chewy", 1.1},
+                {"Homemade", 1.0}
             };
 
         private readonly double baseModifier = 2; 
@@ -41,7 +41,7 @@ namespace PizzaCalories.Ingredients
             get => flourType;
             private set
             { 
-               if (!flourTypes.ContainsKey( value.ToLower())) 
+               if (!flourTypes.ContainsKey( value)) 
                {
 
                     throw new ArgumentException("Invalid type of dough.");
@@ -56,7 +56,7 @@ namespace PizzaCalories.Ingredients
             get => bakingTechnique;
             private set
             {
-                if (!bakingTechnics.ContainsKey(value.ToLower()))
+                if (!bakingTechnics.ContainsKey(value))
                 {
                     throw new ArgumentException("Invalid type of dough.");
                 }
