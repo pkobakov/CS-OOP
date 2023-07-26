@@ -5,13 +5,12 @@ using Heroes.Models.Map;
 using Heroes.Models.Weapons;
 using Heroes.Repositories;
 using Heroes.Repositories.Contracts;
-using Heroes.Utilities.Enums;
 using Heroes.Utilities.Messages;
 using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
 using System.Text;
+using System.Threading;
 
 namespace Heroes.Core
 {
@@ -20,117 +19,105 @@ namespace Heroes.Core
         private IRepository<IHero> heroes;
         private IRepository<IWeapon> weapons;
         public Controller() 
-        { 
-            heroes = new HeroRepository();
-            weapons = new WeaponRepository();
-        }
-        //ready
-        public string AddWeaponToHero(string weaponName, string heroName)
         {
-            IHero hero;
+            this.heroes = new HeroRepository();
+            this.weapons = new WeaponRepository();
+        }
+
+        public string CreateHero(string type, string name, int health, int armour)
+        {
+            IHero hero; 
+            
+            if (this.heroes.Models.Any(x => x.Name == name)) 
+            {
+                throw new InvalidOperationException(string.Format(OutputMessages.HeroAlreadyExist, name));
+            }
+
+            hero = type switch
+            {
+                nameof(Knight) => new Knight(name, health, armour),
+                nameof(Barbarian) => new Barbarian(name, health, armour),
+                _=> throw new InvalidOperationException(OutputMessages.HeroTypeIsInvalid)
+            };
+
+            this.heroes.Add(hero);
+
+            if (hero.GetType() == typeof(Knight))
+            {
+                return string.Format(OutputMessages.SuccessfullyAddedKnight, name);
+            }
+
+            else
+            {
+                return string.Format(OutputMessages.SuccessfullyAddedBarbarian, name);
+            }
+
+        }
+        public string CreateWeapon(string type, string name, int durability)
+        {
             IWeapon weapon;
 
-            if (!heroes.Models.Any(h => h.Name == heroName)) 
+            if (this.weapons.Models.Any(x => x.Name == name))
+            {
+                throw new InvalidOperationException(string.Format(OutputMessages.WeaponAlreadyExists, name));
+            }
+
+            weapon = type switch 
+            {
+                nameof(Claymore) => new Claymore(name, durability), 
+                nameof(Mace) => new Mace(name,durability),
+                _=> throw new InvalidOperationException(OutputMessages.WeaponTypeIsInvalid)
+            };
+
+            this.weapons.Add(weapon);
+            return string.Format(OutputMessages.WeaponAddedSuccessfully, type.ToLower(), name);
+        }
+
+        public string AddWeaponToHero(string weaponName, string heroName)
+        {
+            IHero hero = this.heroes.FindByName(heroName);
+            IWeapon weapon = this.weapons.FindByName(weaponName);
+
+            if (hero == null) 
             {
                 throw new InvalidOperationException(string.Format(OutputMessages.HeroDoesNotExist, heroName));
             }
-            if (!weapons.Models.Any(w => w.Name == weaponName)) 
+
+            if (weapon == null)
             {
-                throw new InvalidOperationException(string.Format(OutputMessages.WeaponDoesNotExist, weaponName));
+                throw new InvalidOperationException(string.Format(OutputMessages.WeaponDoesNotExist, weaponName));  
             }
 
-            hero = heroes.Models.FirstOrDefault(h => h.Name == heroName);
-            weapon = weapons.Models.FirstOrDefault(w => w.Name == weaponName);
-
-            if (hero.Weapon != null) 
+            if (hero.Weapon != null)
             {
                 throw new InvalidOperationException(string.Format(OutputMessages.HeroAlreadyHasWeapon, heroName));
             }
 
             hero.AddWeapon(weapon);
-            weapons.Remove(weapon);   
+            this.weapons.Remove(weapon);
 
             return string.Format(OutputMessages.WeaponAddedToHero, heroName, weapon.GetType().Name.ToLower());
-        }
-        //ready
-        public string CreateHero(string type, string name, int health, int armour)
-        {
-            IHero hero;
-            if (heroes.Models.Any( h => h.Name == name))
-            {
-                throw new InvalidOperationException(string.Format(OutputMessages.HeroAlreadyExist, name));
-            }
-
-            Enum.TryParse(type, out HeroType heroType);
-            hero = heroType switch 
-            { 
-                HeroType.Knight => new Knight(name, health, armour),
-                HeroType.Barbarian => new Barbarian(name, health, armour),
-                _=> throw new InvalidOperationException(OutputMessages.HeroTypeIsInvalid)
-            };
-
-            heroes.Add(hero);
-
-            if (hero.GetType().Name == nameof(Knight))
-            {
-                return string.Format(OutputMessages.SuccessfullyAddedKnight, name);
-            }
-            else
-            {
-                return string.Format(OutputMessages.SuccessfullyAddedBarbarian, name);
-            }
-        }
-        //ready
-        public string CreateWeapon(string type, string name, int durability)
-        {
-            IWeapon weapon;
-            if (weapons.Models.Any( w => w.Name == name))
-            {
-                throw new InvalidOperationException(string.Format(OutputMessages.WeaponAlreadyExists, name));
-            }
-
-            Enum.TryParse(type, out WeaponType weaponType);
-            weapon = weaponType switch 
-            { 
-              WeaponType.Mace => new Mace(name, durability),
-              WeaponType.Claymore => new Claymore(name, durability),
-              _=> throw new InvalidOperationException(OutputMessages.WeaponTypeIsInvalid)
-            };
-
-            weapons.Add(weapon);
-
-            return string.Format(OutputMessages.WeaponAddedSuccessfully, type.ToLower(), name);
-
-
-
-        }
-
-        public string HeroReport()
-        {
-            var sb = new StringBuilder();   
-
-            foreach (var hero in heroes.Models.OrderBy(h => h.GetType().Name).ThenByDescending(x => x.Health).ThenBy(x => x.Name)) 
-            {
-                string weapon = hero.Weapon == null ? "Unarmed" : hero.Weapon.Name;
-
-                sb.AppendLine($"{ hero.GetType().Name}: { hero.Name }");
-                sb.AppendLine($"--Health: { hero.Health }");
-                sb.AppendLine($"--Armour: { hero.Armour }");
-                sb.AppendLine($"--Weapon: { weapon }");
-            }
-
-
-            return sb.ToString().Trim();
         }
 
         public string StartBattle()
         {
+           IMap map = new Map();
 
-            IMap map = new Map();
-            var players = heroes.Models.Where(p => p.IsAlive && p.Weapon != null).ToList();
-            string result = map.Fight(players);
+           return map.Fight(this.heroes.Models.Where(x => x.Weapon != null && x.IsAlive).ToList());
 
-            return result;
         }
+
+
+        public string HeroReport()
+        {
+            StringBuilder sb = new StringBuilder(); 
+            foreach (IHero hero in this.heroes.Models.OrderBy(x => x.GetType().Name).ThenByDescending(x => x.Health).ThenBy(x => x.Name))
+            {
+                sb.AppendLine(hero.ToString());
+            }
+
+            return sb.ToString().TrimEnd();   
+        }
+
     }
 }

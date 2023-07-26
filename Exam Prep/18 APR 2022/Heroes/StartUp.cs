@@ -1,8 +1,7 @@
-﻿using Heroes.Core;
+﻿using System;
+using Heroes.Core;
 using Heroes.Core.Contracts;
 using Heroes.Models.Heroes;
-using Heroes.Models.Weapons;
-using Heroes.Repositories;
 
 namespace Heroes
 {
@@ -12,7 +11,6 @@ namespace Heroes
         {
             IEngine engine = new Engine();
             engine.Run();
-
 
         }
     }
