@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\bin\Debug\net6.0\Bakery.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\bin\Debug\net6.0\Bakery.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\bin\Debug\net6.0\Bakery.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\bin\Debug\net6.0\Bakery.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\bin\Debug\net6.0\Bakery.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\obj\Debug\net6.0\Bakery.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\obj\Debug\net6.0\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\obj\Debug\net6.0\Bakery.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\obj\Debug\net6.0\Bakery.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\obj\Debug\net6.0\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\obj\Debug\net6.0\Bakery.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\obj\Debug\net6.0\refint\Bakery.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\obj\Debug\net6.0\Bakery.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\obj\Debug\net6.0\Bakery.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\12 DEC 2020\Bakery\Bakery\obj\Debug\net6.0\ref\Bakery.dll
