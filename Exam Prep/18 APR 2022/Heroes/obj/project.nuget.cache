@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZIKqlwBy/LnsePL7blv/KcwCXGzaK+pyAVE1JEv8PR22aAcKDo98mOsGkU/wUVK3WGW/BCAXfgK3ysusxgtZXQ==",
+  "dgSpecHash": "HctZ0L1fCxSYxmdXSm8AmC4aMXYjIbthV5mSSCgt9/UF23X9vrNPkvV9SAEV0iDNaatxlHOKapBMBV47KEAeaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Petar Kobakov\\Desktop\\CS-OOP\\Exam Prep\\18 APR 2022\\Heroes\\Heroes.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Petar Kobakov\\Desktop\\OOP June 2023\\ExamPrep\\18APR2022\\Heroes\\Heroes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Petar Kobakov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
