@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\bin\Debug\net6.0\VehiclesExtension.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\bin\Debug\net6.0\VehiclesExtension.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\bin\Debug\net6.0\VehiclesExtension.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\bin\Debug\net6.0\VehiclesExtension.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\bin\Debug\net6.0\VehiclesExtension.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\obj\Debug\net6.0\refint\VehiclesExtension.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Polymorphism\Exercise\VehiclesExtension\obj\Debug\net6.0\ref\VehiclesExtension.dll

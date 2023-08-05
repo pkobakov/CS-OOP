@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\bin\Debug\net6.0\PlanetWars.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\bin\Debug\net6.0\PlanetWars.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\bin\Debug\net6.0\PlanetWars.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\bin\Debug\net6.0\PlanetWars.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\bin\Debug\net6.0\PlanetWars.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\obj\Debug\net6.0\PlanetWars.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\obj\Debug\net6.0\PlanetWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\obj\Debug\net6.0\PlanetWars.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\obj\Debug\net6.0\PlanetWars.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\obj\Debug\net6.0\PlanetWars.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\obj\Debug\net6.0\PlanetWars.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\obj\Debug\net6.0\refint\PlanetWars.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\obj\Debug\net6.0\PlanetWars.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\obj\Debug\net6.0\PlanetWars.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\14 AUG 2022\PlanetWars\obj\Debug\net6.0\ref\PlanetWars.dll

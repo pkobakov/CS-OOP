@@ -1,0 +1,14 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\10 APR 2021\Unit Tests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\10 APR 2021\Unit Tests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\10 APR 2021\Unit Tests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\10 APR 2021\Unit Tests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\10 APR 2021\Unit Tests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\10 APR 2021\Unit Tests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\10 APR 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\10 APR 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\10 APR 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\10 APR 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\10 APR 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\10 APR 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\10 APR 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\10 APR 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache

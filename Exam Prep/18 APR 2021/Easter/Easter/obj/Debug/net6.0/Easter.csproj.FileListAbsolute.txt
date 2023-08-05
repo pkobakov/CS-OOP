@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\bin\Debug\net6.0\Easter.exe
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\bin\Debug\net6.0\Easter.deps.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\bin\Debug\net6.0\Easter.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\bin\Debug\net6.0\Easter.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\bin\Debug\net6.0\Easter.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\obj\Debug\net6.0\Easter.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\obj\Debug\net6.0\Easter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\obj\Debug\net6.0\Easter.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\obj\Debug\net6.0\Easter.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\obj\Debug\net6.0\Easter.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\obj\Debug\net6.0\Easter.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\obj\Debug\net6.0\refint\Easter.dll
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\obj\Debug\net6.0\Easter.pdb
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\obj\Debug\net6.0\Easter.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CS-OOP\Exam Prep\18 APR 2021\Easter\Easter\obj\Debug\net6.0\ref\Easter.dll

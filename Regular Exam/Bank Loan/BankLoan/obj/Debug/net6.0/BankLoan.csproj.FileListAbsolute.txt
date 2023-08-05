@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\bin\Debug\net6.0\BankLoan.exe
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\bin\Debug\net6.0\BankLoan.deps.json
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\bin\Debug\net6.0\BankLoan.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\bin\Debug\net6.0\BankLoan.dll
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\bin\Debug\net6.0\BankLoan.pdb
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\obj\Debug\net6.0\BankLoan.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\obj\Debug\net6.0\BankLoan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\obj\Debug\net6.0\BankLoan.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\obj\Debug\net6.0\BankLoan.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\obj\Debug\net6.0\BankLoan.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\obj\Debug\net6.0\BankLoan.dll
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\obj\Debug\net6.0\refint\BankLoan.dll
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\obj\Debug\net6.0\BankLoan.pdb
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\obj\Debug\net6.0\BankLoan.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\MyOOPExam\BankLoan\obj\Debug\net6.0\ref\BankLoan.dll
